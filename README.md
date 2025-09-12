@@ -23,4 +23,31 @@ From functional and UI testing to regression and exploratory testing, I ensure t
 
 <img width="1903" height="3511" alt="image" src="https://github.com/user-attachments/assets/5b938056-4541-4d3f-a6e0-c919e528d9d9" />
 
+<img width="1920" height="1820" alt="image" src="https://github.com/user-attachments/assets/9aca9dc4-b7b0-4bef-8911-ca4bdb4fdf3c" />
+
+
+
+# Courses Completed :notebook:
+ <article>
+		<ul>
+			<li><h4>STAD Solution - Training institute in Ahmedabad, Gujarat</h4></li>
+			<ul style="list-style-type:circle">
+				<li> <a href="https://tinyurl.com/22cxheph">Manual Testing and Basics of Automation Testing</a> </li>
+        <li> <a href="https://tinyurl.com/23ndtb9v">Postman - API Testing</a> </li>
+        <li> <a href="https://tinyurl.com/2bgay2fw">Performance Testing - Jmeter</a> </li>
+        <li> <a href="https://tinyurl.com/24lkhano">Software Testing with GenAI</a> </li>
+        <li> <a href="https://tinyurl.com/24fa6767">AI in Automation Testing</a> </li>
+			</ul>
+		</ul>
+		<ul>
+			<li><h4>Rahul Shetty (UDEMY)</h4></li>	
+			<ul style="list-style-type:circle">
+				<li> <a href="https://screenrec.com/share/TYMOH4BSyn">Selenium WebDriver with Java - Basics to Advanced + Frameworks</a </li>
+			</ul>		
+		</ul>
+</article>
+
+# Award 🏆
++ <a href="https://screenrec.com/share/VgiMAk8I3e">Best QA of the Year</a>
+
 

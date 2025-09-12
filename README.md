@@ -1,5 +1,5 @@
 # Portfolio
-### :wave:About me 
+## About me :wave:
 I began my journey as a Digital Marketing Executive,  I specialize in optimizing dynamic, responsive, and user-friendly websites that align with clients' business goals. 📈 𝐒𝐄𝐎 & 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 – Optimizing websites and crafting strategies to rank for competitive keywords. Then I discovered my passion for quality assurance — making sure that even the best code results in a seamless, bug-free experience for users.
 
 Now, as a QA Engineer, I combine my development background with a detail-oriented mindset to deliver high-quality software. I specialize in manual testing and have hands-on experience designing comprehensive test plans, executing test cases, and using tools like JIRA to manage bug tracking efficiently
@@ -13,3 +13,9 @@ With Rest Assured, Recently I have started writing  automated scripts to test AP
 From functional and UI testing to regression and exploratory testing, I ensure that every aspect of the software is tested thoroughly. My unique blend of skills allows me to approach testing with a developer’s eye and a tester’s discipline
 
 💡 My goal is To ensure every release is smooth, every user is satisfied, and every bug is caught before it reaches production.
+
+# I’m currently learning about ... :seedling:
+
++ Generative AI
++ Appium - Mobile Automation Testing
+

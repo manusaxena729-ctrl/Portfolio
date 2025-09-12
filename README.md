@@ -19,3 +19,8 @@ From functional and UI testing to regression and exploratory testing, I ensure t
 + Generative AI
 + Appium - Mobile Automation Testing
 
+# Tools :wrench:
+
+<img width="1903" height="3511" alt="image" src="https://github.com/user-attachments/assets/5b938056-4541-4d3f-a6e0-c919e528d9d9" />
+
+

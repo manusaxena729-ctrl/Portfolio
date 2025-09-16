@@ -23,11 +23,11 @@ From functional and UI testing to regression and exploratory testing, I ensure t
 
 <img width="1903" height="3976" alt="image" src="https://github.com/user-attachments/assets/8f9bf7b3-c97b-43cc-9baa-c8af91854ef0" />
 
+<img width="1903" height="1820" alt="image" src="https://github.com/user-attachments/assets/8e1a5f6a-8907-4151-8ce5-b56e361b5451" />
 
-<img width="1920" height="1820" alt="image" src="https://github.com/user-attachments/assets/9aca9dc4-b7b0-4bef-8911-ca4bdb4fdf3c" />
+
 
 <img width="1813" height="912" alt="image" src="https://github.com/user-attachments/assets/e1898adf-4df1-4011-bb4f-fc2104901115" />
-
 
 # Courses Completed :notebook:
  <article>

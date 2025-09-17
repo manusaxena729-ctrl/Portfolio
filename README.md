@@ -24,7 +24,7 @@ From functional and UI testing to regression and exploratory testing, I ensure t
 <img width="1903" height="3976" alt="image" src="https://github.com/user-attachments/assets/8f9bf7b3-c97b-43cc-9baa-c8af91854ef0" />
 
 
-<img width="1920" height="1821" alt="image" src="https://github.com/user-attachments/assets/5cdc7da3-9247-46cc-93e7-2cf8a213a614" />
+<img width="1920" height="1820" alt="image" src="https://github.com/user-attachments/assets/700eeb11-d7d0-4c1a-8f7c-bfdb3d954c70" />
 
 
 <img width="1803" height="901" alt="image" src="https://github.com/user-attachments/assets/5c5a56d1-1734-4d9d-a82c-804b28bd6a8a" />

@@ -35,11 +35,11 @@ From functional and UI testing to regression and exploratory testing, I ensure t
 		<ul>
 			<li><h4>STAD Solution - Training institute in Ahmedabad, Gujarat</h4></li>
 			<ul style="list-style-type:circle">
-				<li> <a href="https://tinyurl.com/22cxheph">Manual Testing and Basics of Automation Testing</a> </li>
-        <li> <a href="https://tinyurl.com/23ndtb9v">Postman - API Testing</a> </li>
-        <li> <a href="https://tinyurl.com/2bgay2fw">Performance Testing - Jmeter</a> </li>
-        <li> <a href="https://tinyurl.com/24lkhano">Software Testing with GenAI</a> </li>
-        <li> <a href="https://tinyurl.com/24fa6767">AI in Automation Testing</a> </li>
+				<li> <a href="https://drive.google.com/file/d/10F2I3GrI3hx8jBA5vyGJTd2OvRnOOV6r/view?usp=sharing">Manual Testing and Basics of Automation Testing</a> </li>
+        <li> <a href="https://drive.google.com/file/d/19ZEXe_8Qi7YKsSqYtLrkLfSTGAU1bRHF/view?usp=sharing">Postman - API Testing</a> </li>
+        <li> <a href="https://drive.google.com/file/d/1Ma1nfmNvA5wvLPgMbRwegANTkL5UNsSt/view?usp=sharing">Performance Testing - Jmeter</a> </li>
+        <li> <a href="https://drive.google.com/file/d/12OWHvnTBY4LHgeMOx9QA2VCKxt1Y7z_r/view?usp=sharing">Software Testing with GenAI</a> </li>
+        <li> <a href="https://drive.google.com/file/d/1kksWtdnsjHsmB1xBNLqV9BmTZW-9qOoA/view?usp=sharing">AI in Automation Testing</a> </li>
 			</ul>
 		</ul>
 		<ul>

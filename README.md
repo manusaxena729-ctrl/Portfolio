@@ -51,6 +51,6 @@ From functional and UI testing to regression and exploratory testing, I ensure t
 </article>
 
 # Award 🏆
-+ <a href="https://screenrec.com/share/VgiMAk8I3e">Best QA of the Year</a>
++ <a href="https://drive.google.com/file/d/15QwA1jr72TjT0xze2Y365jp0mal1Lfis/view?usp=sharing">Best QA of the Year</a>
 
 

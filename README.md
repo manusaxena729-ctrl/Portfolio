@@ -21,8 +21,7 @@ From functional and UI testing to regression and exploratory testing, I ensure t
 
 # Tools :wrench:
 
-<img width="1163" height="2640" alt="image" src="https://github.com/user-attachments/assets/899b85df-872a-48a5-8ef5-407065ac4916" />
-
+<img width="1257" height="2681" alt="image" src="https://github.com/user-attachments/assets/19b17ec4-f0bd-4f1b-a37c-fe5cce8b9e6a" />
 
 <img width="1920" height="1820" alt="image" src="https://github.com/user-attachments/assets/700eeb11-d7d0-4c1a-8f7c-bfdb3d954c70" />
 

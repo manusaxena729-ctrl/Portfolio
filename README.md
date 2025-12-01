@@ -10,10 +10,10 @@ Along with that, I’ve also been working on API testing using tools like Postma
 
 With Rest Assured, Recently I have started writing  automated scripts to test APIs, which is useful for running tests regularly and saving time. These tools help make sure the backend of the application works correctly, handles errors well, and gives the right results.
 
-Performance Testing with JMeter:
+# Performance Testing with JMeter:
 I use Apache JMeter to simulate different user loads, measure response times, and identify performance bottlenecks. It helps me evaluate system stability, scalability, and overall speed by creating load, stress, and endurance test scenarios and analyzing detailed performance reports.
 
-Load Testing with Page Load Timer (Chrome Extension):
+# Load Testing with Page Load Timer (Chrome Extension):
 For quick frontend performance checks, I use the Page Load Timer extension to measure page load times, including DOM and full load durations. This helps me spot UI performance issues early and ensure smooth, fast user experiences.
 
 From functional and UI testing to regression and exploratory testing, I ensure that every aspect of the software is tested thoroughly. My unique blend of skills allows me to approach testing with a developer’s eye and a tester’s discipline

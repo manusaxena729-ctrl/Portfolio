@@ -16,7 +16,7 @@ From functional and UI testing to regression and exploratory testing, I ensure t
 
 # I’m currently learning about ... :seedling:
 
-+ Generative AI
++ Rest Assured API
 + Appium - Mobile Automation Testing
 
 # Tools :wrench:

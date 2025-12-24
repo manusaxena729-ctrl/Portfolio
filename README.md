@@ -2,7 +2,7 @@
 ## About me :wave:
 I began my journey as a Digital Marketing Executive,  I specialize in optimizing dynamic, responsive, and user-friendly websites that align with clients' business goals. 📈 𝐒𝐄𝐎 & 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 – Optimizing websites and crafting strategies to rank for competitive keywords. Then I discovered my passion for quality assurance — making sure that even the best code results in a seamless, bug-free experience for users.
 
-Now, as a QA Engineer, I combine my development background with a detail-oriented mindset to deliver high-quality software. I specialize in manual testing and have hands-on experience designing comprehensive test plans, executing test cases, and using tools like JIRA to manage bug tracking efficiently.
+Now, as a QA Engineer, I focus on accuracy and usability, validating applications to ensure they meet functional and business requirements. I specialize in manual testing and have hands-on experience designing comprehensive test plans, executing test cases, and using tools like JIRA to manage bug tracking efficiently.
 
 In addition to manual testing, I have 4 months of automation experience using Selenium WebDriver in Java, enabling me to write and maintain automated test scripts for regression and smoke testing. This automation expertise helps accelerate release cycles and enhance overall test coverage.
 

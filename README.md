@@ -57,5 +57,6 @@ From functional and UI testing to regression and exploratory testing, I ensure t
 
 # Award 🏆
 + <a href="https://drive.google.com/file/d/15QwA1jr72TjT0xze2Y365jp0mal1Lfis/view?usp=sharing">Best QA of the Year</a>
++ <a href="https://drive.google.com/file/d/1gl6fcyNzEGWj3BP1GTx5ab5aqP0q-0p4/view?usp=drive_link">Certificate of Participation in Yoga</a>
 
 

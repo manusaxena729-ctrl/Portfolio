@@ -4,7 +4,7 @@ I began my journey as a Digital Marketing Executive, specializing in optimizing 
 
 Now, as a QA Engineer, I focus on accuracy and usability, validating applications to ensure they meet functional and business requirements. I specialize in manual testing and have hands-on experience designing comprehensive test plans, executing test cases, and using tools like JIRA to manage bug tracking efficiently.
 
-In addition to manual testing, I have six months of experience in test automation using Selenium WebDriver with Java, enabling me to write and maintain automated test scripts for regression and smoke testing. This automation expertise helps accelerate release cycles and enhance overall test coverage.
+In addition to manual testing, I have 1 year of experience in test automation using Selenium WebDriver with Java, enabling me to write and maintain automated test scripts for regression and smoke testing. This automation expertise helps accelerate release cycles and enhance overall test coverage.
 
 Along with this, I have been working on API testing using tools such as Postman. With Postman, I perform manual API testing by sending various requests and validating responses, headers, status codes, and data. This helps me quickly understand API behavior and ensure reliability.
 
